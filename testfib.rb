@@ -3,7 +3,7 @@ class Testfib < Formula
   homepage "https://github.com/bhaskar-reddy/homebrew-testfib"
 
   url "https://github.com/bhaskar-reddy/homebrew-testfib/blob/master/drawart-1.0.0.tar.gz"
-  sha256 "2836ccac9071cf5994d5977cb043219258cfeaa03739c45b03b27a8801c1ed20"
+  sha256 "47bc7b452511a98e9069718d5fad253c0d02cab60e433e7696092757fdacad80"
   head "https://github.com/bhaskar-reddy/homebrew-testfib.git"
   version "1.0.0"
 
