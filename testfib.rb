@@ -1,5 +1,3 @@
-require "formula"
-
 class Testfib < Formula
   desc "Executing a test Go executable"
   homepage "https://github.com/bhaskar-reddy/initial-go"
