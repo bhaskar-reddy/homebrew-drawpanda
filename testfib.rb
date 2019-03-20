@@ -9,6 +9,6 @@ class Testfib < Formula
   bottle :unneeded
 
   def install
-    bin.install "funfibonacci"
+    bin.install "bin/funfibonacci"
   end
 end
