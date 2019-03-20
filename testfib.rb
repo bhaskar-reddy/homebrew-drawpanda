@@ -1,10 +1,13 @@
 class Testfib < Formula
-  desc "Executing a test Go executable"
+  desc "Executing a test script"
   homepage "https://github.com/bhaskar-reddy/homebrew-testfib"
 
-  url "https://github.com/bhaskar-reddy/homebrew-testfib/blob/master/drawart.tar.gz"
+  url "https://github.com/bhaskar-reddy/homebrew-testfib/blob/master/drawart-1.0.0.tar.gz"
   sha256 "2836ccac9071cf5994d5977cb043219258cfeaa03739c45b03b27a8801c1ed20"
   head "https://github.com/bhaskar-reddy/homebrew-testfib.git"
+  version "1.0.0"
+
+  depends_on "curl"
 
   bottle :unneeded
 
