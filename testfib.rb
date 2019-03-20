@@ -4,6 +4,7 @@ class Testfib < Formula
 
   url "https://github.com/bhaskar-reddy/initial-go/blob/master/src/testbed/funfibonacci.tar.gz"
   sha256 "4a503d00f76c4f2b47a6f9f98756624e51b3b055c66bf6194fbb7da60924629c"
+  head "https://github.com/bhaskar-reddy/initial-go.git"
 
   bottle :unneeded
 
