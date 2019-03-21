@@ -12,6 +12,6 @@ class Drawpanda < Formula
   bottle :unneeded
 
   def install
-    bin.install "drawpanda"
+    bin.install "drawart"
   end
 end
