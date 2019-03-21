@@ -16,3 +16,5 @@ Once this is done, you can run the command
 `drawpanda`
 
 and the script is called to execute in your local.
+
+Source: http://artscene.textfiles.com/asciiart/
