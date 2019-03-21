@@ -2,8 +2,8 @@ class Drawpanda < Formula
   desc "Executing a Script to Draw Panda"
   homepage "https://github.com/bhaskar-reddy/homebrew-drawpanda"
 
-  url "https://github.com/bhaskar-reddy/homebrew-drawpanda/raw/master/drawart-1.0.0.tar.gz"
-  sha256 "2836ccac9071cf5994d5977cb043219258cfeaa03739c45b03b27a8801c1ed20"
+  url "https://github.com/bhaskar-reddy/homebrew-drawpanda/raw/master/drawpanda-1.0.0.tar.gz"
+  sha256 "976986b18de6f48a0ffec319e1c7d924c443609bfac8845492d4f02069fde70a"
   head "https://github.com/bhaskar-reddy/homebrew-drawpanda.git"
   version "1.0.0"
 
@@ -12,6 +12,6 @@ class Drawpanda < Formula
   bottle :unneeded
 
   def install
-    bin.install "drawart"
+    bin.install "drawpanda"
   end
 end

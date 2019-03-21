@@ -13,6 +13,6 @@ followed by
 
 Once this is done, you can run the command
 
-`drawart`
+`drawpanda`
 
 and the script is called to execute in your local.
